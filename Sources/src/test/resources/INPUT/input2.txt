@@ -1,0 +1,2 @@
+2;boîtes de chocolats;10;oui;PRIMARY
+3;flacons de parfum;47.50;oui;OTHER

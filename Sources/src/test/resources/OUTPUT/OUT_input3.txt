@@ -1,0 +1,10 @@
+Facture du:  Sun Feb 11 22:49:38 CET 2018
+____________________________________________________
+* 2 flacons de parfum Importé  à 27,99€  : 70,00€ TTC
+* 1 flacon de parfum  à 18,99€  : 22,80€ TTC
+* 3 bo�tes de pilules contre la migraine  à 9,75€  : 29,25€ TTC
+* 2 bo�tes de chocolats Importé  à 11,25€  : 23,65€ TTC
+____________________________________________________
+Montant des taxes : 18,98€
+Total : 145,70€
+____________________________________________________

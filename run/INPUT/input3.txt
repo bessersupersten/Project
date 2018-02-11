@@ -1,0 +1,4 @@
+2;flacons de parfum;27.99;oui;OTHER
+1;flacon de parfum;18.99;non;OTHER
+3;boîtes de pilules contre la migraine;9.75;non;PRIMARY
+2;boîtes de chocolats;11.25;oui;PRIMARY

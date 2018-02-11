@@ -1,0 +1,3 @@
+2;livres;12.49;non;BOOKS
+1;CD musical;14.99;non;OTHER
+3;barres de chocolat;0.85;non;PRIMARY

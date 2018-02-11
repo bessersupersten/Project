@@ -1,0 +1,8 @@
+com\caci\tools\vat\model\Panier.class
+com\caci\tools\vat\kernel\Run.class
+com\caci\tools\vat\kernel\Calculateur.class
+com\caci\tools\vat\model\Produit.class
+com\caci\tools\vat\model\Ligne.class
+com\caci\tools\vat\kernel\Parser.class
+com\caci\tools\vat\model\Categorie.class
+com\caci\tools\vat\kernel\Calculateur$1.class
